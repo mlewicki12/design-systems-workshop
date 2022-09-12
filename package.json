@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/fruit-blush-3wz3s.blank-l7ydkzi6",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve Dtx7vSVoXqrTgK01zlWe --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
