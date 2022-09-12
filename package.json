@@ -10,6 +10,7 @@
     "build-styles": "style-dictionary build -c sd.config.json"
   },
   "dependencies": {
-    "@divriots/dockit-core": "^0.9.4"
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.3.1"
   }
 }

@@ -12,7 +12,7 @@
       ],
       [
         "INFRASTRUCTURE",
-        []
+        ["doc-layout"]
       ]
     ]
   }
