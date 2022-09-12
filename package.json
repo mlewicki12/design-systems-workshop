@@ -9,6 +9,7 @@
     "serve": "npx backlight@latest serve Dtx7vSVoXqrTgK01zlWe --open",
     "build-styles": "style-dictionary build -c sd.config.json"
   },
-  "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "@divriots/dockit-core": "^0.9.4"
+  }
 }
