@@ -6,7 +6,8 @@
   "type": "module",
   "homepage": "{{ homepage }}",
   "scripts": {
-    "serve": "npx backlight@latest serve Dtx7vSVoXqrTgK01zlWe --open"
+    "serve": "npx backlight@latest serve Dtx7vSVoXqrTgK01zlWe --open",
+    "build-styles": "style-dictionary build -c sd.config.json"
   },
   "devDependencies": {},
   "dependencies": {}
