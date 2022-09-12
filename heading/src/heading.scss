@@ -1,5 +1,5 @@
 
-@import "../../mixins.scss";
+@use "../../mixins.scss";
 
 h1 {
   @include mixins.heading();
